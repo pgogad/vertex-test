@@ -1,0 +1,2150 @@
+{
+  "created_on": "2026-10-19",
+  "market": "US",
+  "retained": [
+    {
+      "product_key": "unseen_01",
+      "candidate_id": "1",
+      "url": "https://www.target.com/p/-/A-14915876",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_01",
+      "candidate_id": "2",
+      "url": "https://www.walmart.com/ip/174906154?classType=REGULAR",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_01",
+      "candidate_id": "3",
+      "url": "https://www.aldi.us/landing?postal_code=48075&product_id=54414&region_id=%7Bstore_code%7D&retailer_id=12",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_01",
+      "candidate_id": "4",
+      "url": "https://www.shoprite.com/product/lacroix-pamplemousse-sparkling-water-12-fl-oz-12-count-id-00012993102012",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_01",
+      "candidate_id": "5",
+      "url": "https://delivery.publix.com/store/publix/products/54414-lacroix-sparkling-water-grapefruit-12-fl-oz",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_01",
+      "candidate_id": "6",
+      "url": "https://delivery.publix.com/landing?postal_code=34711&product_id=54414&region_id=2222281272&retailer_id=57",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_01",
+      "candidate_id": "7",
+      "url": "https://delivery.publix.com/landing?postal_code=35802&product_id=54414&region_id=1547770865&retailer_id=57",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_01",
+      "candidate_id": "8",
+      "url": "https://www.walmart.com/ip/36333114",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_01",
+      "candidate_id": "9",
+      "url": "https://www.shoprite.com/sm/delivery/rsid/487/product/lacroix-pamplemousse-sparkling-water-12-fl-oz-12-count-id-00012993102012",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_01",
+      "candidate_id": "10",
+      "url": "https://www.instacart.com/store/products/20617673-lacroix-mango-12-fl-oz",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_02",
+      "candidate_id": "1",
+      "url": "https://www.drinkpoppi.com/products/strawberry-lemon",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_02",
+      "candidate_id": "4",
+      "url": "https://www.target.com/p/-/A-94269151",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_02",
+      "candidate_id": "6",
+      "url": "https://www.target.com/p/-/A-93655210",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_02",
+      "candidate_id": "7",
+      "url": "https://www.target.com/p/-/A-94269159",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_02",
+      "candidate_id": "8",
+      "url": "https://www.instacart.com/store/products/17379105-poppi-prebiotic-soda-strawberry-lemon-12-fl-oz",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_03",
+      "candidate_id": "1",
+      "url": "https://drinkolipop.com/products/classic-root-beer?bvstate=pg%3A9%2Fct%3Ar",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_03",
+      "candidate_id": "2",
+      "url": "https://drinkolipop.com/collections/shop-6g-fiber",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_03",
+      "candidate_id": "3",
+      "url": "https://drinkolipop.com/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_03",
+      "candidate_id": "4",
+      "url": "https://drinkolipop.com/pages/faq",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_03",
+      "candidate_id": "5",
+      "url": "https://drinkolipop.com/pages/fiber-education",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_03",
+      "candidate_id": "6",
+      "url": "https://www.smartandfinal.com/product/olipop-classic-root-beer-id-00860439001067",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_03",
+      "candidate_id": "7",
+      "url": "https://www.target.com/p/-/A-79698834",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_03",
+      "candidate_id": "8",
+      "url": "https://delivery.publix.com/landing?postal_code=28546&product_id=21043036&region_id=11025010139&retailer_id=57",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_03",
+      "candidate_id": "9",
+      "url": "https://www.heb.com/product-detail/olipop-classic-root-beer-9g-fiber-prebiotic-soda/3847013",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_03",
+      "candidate_id": "10",
+      "url": "https://www.heb.com/product-detail/olipop-prebiotic-soda-classic-root-beer/15233013",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_04",
+      "candidate_id": "1",
+      "url": "https://drinkspindrift.com/products/lime-sparkling-water",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_04",
+      "candidate_id": "2",
+      "url": "https://www.wholefoodsmarket.com/grocery/product/raspberry-lime%20seltzer%2C%2012%20fz-b019qf6d1e",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_04",
+      "candidate_id": "3",
+      "url": "https://www.starbucks.com/menu/product/2122638/packaged",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_04",
+      "candidate_id": "4",
+      "url": "https://www.target.com/p/-/A-51129787",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_04",
+      "candidate_id": "5",
+      "url": "https://www.starbucks.com/menu/product/2122638/packaged/nutrition",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_04",
+      "candidate_id": "6",
+      "url": "https://drinkspindrift.com/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_04",
+      "candidate_id": "7",
+      "url": "https://foodlion.com/groceries/product/spindrift-unsweetened-raspberry-lime-sparkling-water-8-pk-12-oz-cans/228774",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_04",
+      "candidate_id": "8",
+      "url": "https://www.walmart.com/ip/118298368",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_04",
+      "candidate_id": "9",
+      "url": "https://www.kroger.com/p/spindrift-raspberry-lime-sparkling-water-8pk/0085657900231",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_04",
+      "candidate_id": "10",
+      "url": "https://www.hy-vee.com/aisles-online/p/2468150/spindrift-unsweetened-raspberry-lime-sparkling-water-8-12-fl-oz-cans",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_05",
+      "candidate_id": "1",
+      "url": "https://www.wholefoodsmarket.com/grocery/product/chobani-extra-creamy-oat-milk-52-fz-b07z1dtg97",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_05",
+      "candidate_id": "2",
+      "url": "https://www.wholefoodsmarket.com/grocery/product/oatmilk-original%2052%20fl%20oz-b07z19yxq7",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_05",
+      "candidate_id": "3",
+      "url": "https://www.smartandfinal.com/product/chobani-oatmilk-original-id-00818290016980",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_05",
+      "candidate_id": "4",
+      "url": "https://www.kroger.com/p/chobani-oat-extra-creamy-oat-milk/0081829001703",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_05",
+      "candidate_id": "5",
+      "url": "https://www.smartandfinal.com/product/chobani-extra-creamy-oatmilk-id-00818290017031",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_05",
+      "candidate_id": "6",
+      "url": "https://www.walmart.com/ip/786505888?sid=565f558d-8229-4743-824a-27cc78c6de7b",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_05",
+      "candidate_id": "7",
+      "url": "https://www.kroger.com/p/chobani-extra-creamy-oatmilk/0081829001703",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_05",
+      "candidate_id": "8",
+      "url": "https://www.instacart.com/products/20941373-chobani-oat-plain-extra-creamy-52-fl-oz",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_05",
+      "candidate_id": "9",
+      "url": "https://www.shoprite.com/sm/delivery/rsid/336/product/chobani-extra-creamy-oatmilk-52-fl-oz-id-00818290017031",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_05",
+      "candidate_id": "10",
+      "url": "https://www.walmart.com/ip/786505888?sid=4d773d5e-1157-44b0-98ab-2b4ca4dfede8",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_06",
+      "candidate_id": "1",
+      "url": "https://www.califiafarms.com/products/unsweetened-almondmilk/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_06",
+      "candidate_id": "2",
+      "url": "https://www.califiafarms.com/products/unsweetened-almondmilk-3/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_06",
+      "candidate_id": "3",
+      "url": "https://www.califiafarms.com/products/unsweetened-almondmilk-2/?bvstate=pg%3A2%2Fct%3Ar&pp=1",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_06",
+      "candidate_id": "4",
+      "url": "https://www.califiafarms.com/products/unsweetened-vanilla-almondmilk/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_06",
+      "candidate_id": "5",
+      "url": "https://www.califiafarms.com/products/unsweetened-vanilla-almondmilk-2/?bvstate=pg%3A2%2Fct%3Ar",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_06",
+      "candidate_id": "7",
+      "url": "https://downloads.regulations.gov/FDA-2019-P-0777-0005/content.pdf",
+      "reason": "us_reference",
+      "market_basis": "US federal regulatory docket"
+    },
+    {
+      "product_key": "unseen_06",
+      "candidate_id": "9",
+      "url": "https://www.califiafarms.com/static/a9290f6010f772b10d53679f7e5ee23a/Califia-Farms_Simple-Organic-Press-Release_FINAL.pdf",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_06",
+      "candidate_id": "10",
+      "url": "https://www.target.com/p/-/A-48634795",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_07",
+      "candidate_id": "1",
+      "url": "https://www.liquid-iv.com/products/lemon-lime-hydration-multiplier-sugar-free",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_07",
+      "candidate_id": "2",
+      "url": "https://www.liquid-iv.com/products/lemon-lime-hydration-multiplier",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_07",
+      "candidate_id": "3",
+      "url": "https://www.liquid-iv.com/products/lemon-lime-hydration-multiplier-sugar-free?Flavor=Lemon+Lime&Size=14PK&selling_plan=21425094692",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_07",
+      "candidate_id": "4",
+      "url": "https://www.liquid-iv.com/products/lemon-lime-hydration-multiplier-sugar-free?variant=40665233358884",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_07",
+      "candidate_id": "5",
+      "url": "https://www.liquid-iv.com/products/variety-pack-hydration-multiplier-sugar-free",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_07",
+      "candidate_id": "7",
+      "url": "https://www.ulta.com/p/hydration-multiplier-electrolyte-drink-mix-sugar-free-lemon-lime-pimprod2042680?sku=2620977",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_07",
+      "candidate_id": "8",
+      "url": "https://www.target.com/p/-/A-95174608",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_07",
+      "candidate_id": "9",
+      "url": "https://www.target.com/p/-/A-94908561",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_07",
+      "candidate_id": "10",
+      "url": "https://www.target.com/p/-/A-95049396",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_08",
+      "candidate_id": "5",
+      "url": "https://fever-tree.com/index.php/en-us/products/light-indian-tonic-water",
+      "reason": "explicit_us_locale",
+      "market_basis": "Manufacturer URL explicitly identifies the US locale"
+    },
+    {
+      "product_key": "unseen_08",
+      "candidate_id": "10",
+      "url": "https://www.wegmans.com/shop/product/518692",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_09",
+      "candidate_id": "1",
+      "url": "https://raos.com/products/marinara-sauce/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_09",
+      "candidate_id": "2",
+      "url": "https://raos.com/sauces/marinara-sauce/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_09",
+      "candidate_id": "3",
+      "url": "https://raos.com/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_09",
+      "candidate_id": "4",
+      "url": "https://raos.com/sauces/sensitive-sauce/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_09",
+      "candidate_id": "6",
+      "url": "https://www.instacart.com/products/53411-rao-s-homemade-sensitive-marinara-sauce-24-0-oz",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_09",
+      "candidate_id": "7",
+      "url": "https://www.wholefoodsmarket.com/grocery/product/raos-homemade-sensitive-formula-marinara-sauce-b012dh0ufm",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_09",
+      "candidate_id": "8",
+      "url": "https://www.marianos.com/p/rao-s-homemade-sensitive-marinara-sauce/0074747900060",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_09",
+      "candidate_id": "9",
+      "url": "https://www.shoprite.com/product/raos-sensitive-formula-marinara-sauce-24oz-id-00747479000604",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_09",
+      "candidate_id": "10",
+      "url": "https://www.goodeggs.com/raos/sensitive-marinara-sauce/664240d429dd850012bd7b97",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_10",
+      "candidate_id": "1",
+      "url": "https://www.eatbanza.com/collections/pasta",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_10",
+      "candidate_id": "2",
+      "url": "https://www.eatbanza.com/collections/pasta/products/banza-chickpea-rotini",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_10",
+      "candidate_id": "3",
+      "url": "https://www.eatbanza.com/products/banza-chickpea-rotini/1000?bvstate=pg%3A7%2Fct%3Ar",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_10",
+      "candidate_id": "4",
+      "url": "https://www.eatbanza.com/es/products/banza-chickpea-rotini",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_10",
+      "candidate_id": "5",
+      "url": "https://www.eatbanza.com/products/foodservice-rotini-10-lbs?bvstate=pg%3A17%2Fct%3Ar",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_10",
+      "candidate_id": "6",
+      "url": "https://www.wholefoodsmarket.com/grocery/product/banza-banza-rotini-pasta-from-chickpeas-gluten-free-high-protein-and-lower-carb-protein-rotini-chickpea-pasta-8oz-b00xxoy9a2",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_10",
+      "candidate_id": "7",
+      "url": "https://www.target.com/p/-/A-50407889",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_10",
+      "candidate_id": "8",
+      "url": "https://www.heb.com/product-detail/banza-chickpea-rotini/1892163",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_10",
+      "candidate_id": "9",
+      "url": "https://www.walmart.com/ip/47714096",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_10",
+      "candidate_id": "10",
+      "url": "https://www.kroger.com/p/banza-chickpea-rotini-pasta/0085718300501",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_11",
+      "candidate_id": "1",
+      "url": "https://www.target.com/p/-/A-54609378",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_11",
+      "candidate_id": "2",
+      "url": "https://www.walmart.com/ip/5917698540",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_11",
+      "candidate_id": "3",
+      "url": "https://www.walmart.com/ip/435654130",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_11",
+      "candidate_id": "4",
+      "url": "https://www.bjs.com/product/siete-sea-salt-grain-free-tortilla-chips-12-oz/3000000000005123255?fulfillment=shipping",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_11",
+      "candidate_id": "5",
+      "url": "https://www.heb.com/product-detail/siete-grain-free-sea-salt-tortilla-chips/2160287",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_11",
+      "candidate_id": "7",
+      "url": "https://www.walmart.com/ip/472549804",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_11",
+      "candidate_id": "8",
+      "url": "https://www.frysfood.com/p/siete-sea-salt-grain-free-tortilla-chips/0085176900700",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_11",
+      "candidate_id": "9",
+      "url": "https://www.kroger.com/p/siete-1oz-sea-salt-tortilla-chips/0085176900709",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_11",
+      "candidate_id": "10",
+      "url": "https://www.wholefoodsmarket.com/grocery/product/5-ounce-pack-of-3-b0bpw7gmck",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_12",
+      "candidate_id": "1",
+      "url": "https://www.kindsnacks.com/products/thins/dark-chocolate-nuts-sea-salt",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_12",
+      "candidate_id": "2",
+      "url": "https://www.kindsnacks.com/products/thins/dark-chocolate-nuts-sea-salt-and-caramel-almond-sea-salt",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_12",
+      "candidate_id": "4",
+      "url": "https://www.wholefoodsmarket.com/grocery/product/kind-kind-thins-snack-bars-dark-chocolate-nuts-sea-salt-gluten-free-low-calorie-healthy-snacks-4g-sugar-10-count-b09r6z23sl",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_12",
+      "candidate_id": "5",
+      "url": "https://www.dillons.com/p/kind-thins-dark-chocolate-nuts-sea-salt-nut-bars/0060265242958",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_12",
+      "candidate_id": "7",
+      "url": "https://www.heb.com/product-detail/kind-thins-snack-bars-dark-chocolate-nuts-sea-salt/5398506",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_12",
+      "candidate_id": "8",
+      "url": "https://www.wholefoodsmarket.com/grocery/product/10-count-pack-of-6-b0h2w3ny9q",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_12",
+      "candidate_id": "9",
+      "url": "https://www.target.com/p/-/A-85282405",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_12",
+      "candidate_id": "10",
+      "url": "https://www.target.com/s/kind%2Bthins%2Bdark%2Bchocolate",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_13",
+      "candidate_id": "1",
+      "url": "https://naturesbakery.com/products/blueberry?bvstate=pg%3A4%2Fct%3Ar&nosto=nosto-page-product4&refSrc=69",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_13",
+      "candidate_id": "2",
+      "url": "https://naturesbakery.com/products/blueberry?bvstate=pg%3A5%2Fct%3Ar",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_13",
+      "candidate_id": "3",
+      "url": "https://naturesbakery.com/collections/whole-wheat-fig-bars/products/blueberry?bvstate=pg%3A6%2Fct%3Ar",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_13",
+      "candidate_id": "4",
+      "url": "https://naturesbakery.com/products/gluten-free-blueberry?bvstate=pg%3A2%2Fct%3Ar",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_13",
+      "candidate_id": "5",
+      "url": "https://naturesbakery.com/collections/gluten-free-fig-bars/products/gluten-free-blueberry?bvstate=pg%3A3%2Fct%3Ar",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_13",
+      "candidate_id": "6",
+      "url": "https://naturesbakery.com/products/gluten-free-blueberry?bvstate=pg%3A3%2Fct%3Ar&nosto=nosto-page-product2&refSrc=100",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_13",
+      "candidate_id": "7",
+      "url": "https://directionsforme.org/product/80841",
+      "reason": "us_reference",
+      "market_basis": "US packaged-product label database"
+    },
+    {
+      "product_key": "unseen_13",
+      "candidate_id": "8",
+      "url": "https://www.heb.com/product-detail/nature-s-bakery-gluten-free-blueberry-fig-bars/1967550",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_13",
+      "candidate_id": "10",
+      "url": "https://www.instacart.com/products/2874259-nature-s-bakery-gluten-free-bluebery-fig-bar-2-oz",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_14",
+      "candidate_id": "2",
+      "url": "https://shop.rxbar.com/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_14",
+      "candidate_id": "3",
+      "url": "https://shop.rxbar.com/?cid=RXBR-MBD-NA-EMA-NA-EMA-NA-1P-K1PEPSCIR-CUS-EPSILON-EMAIL-WK06_02_04_26_RXBAR_Simple+Ingredients",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_14",
+      "candidate_id": "4",
+      "url": "https://shop.rxbar.com/shop/nut-butter-oat-protein-bar-peanut-butter-dark-chocolate.html",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_14",
+      "candidate_id": "5",
+      "url": "https://www.target.com/p/-/A-95021016",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_14",
+      "candidate_id": "6",
+      "url": "https://shop.rxbar.com/shop/peanut-butter-chocolate-protein-bars-box-of-12.html?bvstate=pg%3A4%2Fct%3Ar&yoReviewsPage=5",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_14",
+      "candidate_id": "7",
+      "url": "https://shop.rxbar.com/shop/peanut-butter-chocolate-protein-bars-box-of-12.html?bvstate=pg%3A8%2Fct%3Ar",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_14",
+      "candidate_id": "8",
+      "url": "https://shop.rxbar.com/shop/peanut-butter-chocolate-protein-bars-box-of-12.html?bvstate=pg%3A11%2Fct%3Ar&yoReviewsPage=11",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_14",
+      "candidate_id": "9",
+      "url": "https://shop.rxbar.com/shop/chocolate-sea-salt-peanut-butter-bundle.html?CID=ema&bvstate=pg%3A2%2Fct%3Ar",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_14",
+      "candidate_id": "10",
+      "url": "https://www.walmart.com/ip/608788278",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_15",
+      "candidate_id": "1",
+      "url": "https://kodiakcakes.com/products/buttermilk-power-cakes-flapjack-waffle-mix",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_15",
+      "candidate_id": "2",
+      "url": "https://kodiakcakes.com/collections/flapjack-waffle-mix/products/kodiak-cakes-buttermilk-power-cakes-flapjack-waffle-mix?bvstate=pg%3A3%2Fct%3Ar",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_15",
+      "candidate_id": "3",
+      "url": "https://www.target.com/p/-/A-15332348",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_15",
+      "candidate_id": "4",
+      "url": "https://www.shoprite.com/sm/pickup/rsid/126/product/kodiak-cakes-power-cakes-buttermilk-flapjack-%26-waffle-mix-20-oz-id-00705599011627",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_15",
+      "candidate_id": "5",
+      "url": "https://www.shoprite.com/sm/pickup/rsid/634/product/kodiak-cakes-power-cakes-buttermilk-flapjack-%26-waffle-mix-20-oz-id-00705599011627",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_15",
+      "candidate_id": "6",
+      "url": "https://www.walmart.com/ip/47375763?sid=e48215c9-7a53-4bc5-a6d9-7ea4a293c5a2",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_15",
+      "candidate_id": "7",
+      "url": "https://www.shoprite.com/sm/planning/rsid/462/product/kodiak-cakes-power-cakes-buttermilk-flapjack-%26-waffle-mix-20-oz-id-00705599011627",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_15",
+      "candidate_id": "8",
+      "url": "https://www.bjs.com/product/kodiak-power-cakes-buttermilk-mix-3-pk20-oz/3000000000001014640",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_16",
+      "candidate_id": "1",
+      "url": "https://delivery.publix.com/landing?postal_code=33139&product_id=24488&region_id=793450496&retailer_id=57",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_16",
+      "candidate_id": "2",
+      "url": "https://www.shoprite.com/sm/pickup/rsid/500/product/amys-organic-lentil-soups-145-oz-id-00042272005833",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_16",
+      "candidate_id": "3",
+      "url": "https://www.wholefoodsmarket.com/grocery/product/light-in-sodium-green-lentil-b000wcznna",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_16",
+      "candidate_id": "4",
+      "url": "https://www.heb.com/product-detail/amy-s-organic-light-in-sodium-lentil-soup/900073",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_16",
+      "candidate_id": "5",
+      "url": "https://www.vitacost.com/products/amy-s-organic-soups-lentil-vegetable-light-in-sodium-14-5-oz-411-g-31529",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_16",
+      "candidate_id": "6",
+      "url": "https://www.heb.com/product-detail/amy-s-organic-light-in-sodium-lentil-vegetable-soup/696690",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_16",
+      "candidate_id": "7",
+      "url": "https://www.bjs.com/product/amys-organic-lentil-soups--8-pk--14-5-oz-/3000000000000457596/",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_16",
+      "candidate_id": "8",
+      "url": "https://delivery.publix.com/landing?postal_code=33018&product_id=24493&region_id=60136418940&retailer_id=57",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_16",
+      "candidate_id": "10",
+      "url": "https://www.kroger.com/p/amy-sa-organic-light-in-sodium-lentil-soup/0004227200583",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_17",
+      "candidate_id": "1",
+      "url": "https://www.cerave.com/skincare/moisturizers/moisturizing-cream/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_17",
+      "candidate_id": "2",
+      "url": "https://www.cerave.com/skincare/moisturizers/daily-moisturizing-lotion",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_17",
+      "candidate_id": "5",
+      "url": "https://www.cerave.com/skincare/moisturizers/moisturizing-cream-refill",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_17",
+      "candidate_id": "8",
+      "url": "https://www.target.com/p/-/A-49118387",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_17",
+      "candidate_id": "9",
+      "url": "https://www.target.com/p/-/A-76198440",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_18",
+      "candidate_id": "1",
+      "url": "https://www.vanicream.com/search?page=1&q=vanicream+gentle+bar+soap+for+sensitive+skin+ingredients",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_18",
+      "candidate_id": "2",
+      "url": "https://nationaleczema.org/eczema-products/vanicream-cleansing-bar/",
+      "reason": "us_reference",
+      "market_basis": "US National Eczema Association product directory"
+    },
+    {
+      "product_key": "unseen_18",
+      "candidate_id": "3",
+      "url": "https://www.ulta.com/p/cleansing-bar-sensitive-skin-pimprod2047535?sku=2631933",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_18",
+      "candidate_id": "4",
+      "url": "https://www.walgreens.com/q/vanicream-cleansing-bar",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_18",
+      "candidate_id": "5",
+      "url": "https://www.target.com/p/-/A-17425434",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_18",
+      "candidate_id": "6",
+      "url": "https://www.ulta.com/p/cleansing-bar-sensitive-skin-pimprod2047535?sku=%5Bobject+Object%5D",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_18",
+      "candidate_id": "7",
+      "url": "https://www.vanicream.com/search?page=2&q=cream+bar+cream+wi+",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_18",
+      "candidate_id": "8",
+      "url": "https://www.vanicream.com/search?page=1&q=cleansing+cream+soap",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_19",
+      "candidate_id": "1",
+      "url": "https://www.laroche-posay.us/toleriane-double-repair-moisturizer-3337875545792.html",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_19",
+      "candidate_id": "2",
+      "url": "https://www.laroche-posay.us/our-products/face/face-moisturizer/toleriane-double-repair-face-moisturizer-tolerianedoublerepair.html?dwvar_tolerianedoublerepair_size=100ML",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_19",
+      "candidate_id": "3",
+      "url": "https://www.laroche-posay.us/our-products/face/face-moisturizer/toleriane-double-repair-face-moisturizer-3337875839969.html?gclsrc=aw.ds",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_19",
+      "candidate_id": "4",
+      "url": "https://www.laroche-posay.us/our-products/face/face-moisturizer/toleriane-double-repair-facial-moisturizer-with-spf-tolerianedoublerepairuvspf30.html",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_19",
+      "candidate_id": "5",
+      "url": "https://www.laroche-posay.us/our-products/face/face-moisturizer/toleriane-double-repair-facial-moisturizer-with-spf-tolerianedoublerepairuvspf30.html?geo=false",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_19",
+      "candidate_id": "6",
+      "url": "https://www.laroche-posay.us/our-products/face/face-moisturizer/toleriane-double-repair-facial-moisturizer-with-spf-tolerianedoublerepairuvspf30.html?dwvar_tolerianedoublerepairuvspf30_size=40ml",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_19",
+      "candidate_id": "7",
+      "url": "https://www.laroche-posay.us/our-products/face/face-moisturizer/toleriane-double-repair-facial-moisturizer-with-spf-3337875545846.html?gclsrc=aw.ds",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_19",
+      "candidate_id": "8",
+      "url": "https://www.laroche-posay.us/toleriane-double-repair-moisturizer-uv-3337875545846.html",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_19",
+      "candidate_id": "9",
+      "url": "https://www.laroche-posay.us/our-products/face/face-moisturizer/toleriane-double-repair-facial-moisturizer-with-spf-tolerianedoublerepairuvspf30.html?dwvar_tolerianedoublerepairuvspf30_size=100ml",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_19",
+      "candidate_id": "10",
+      "url": "https://www.laroche-posay.us/our-products/face/face-moisturizer/toleriane-double-repair-facial-moisturizer-with-spf-3337875888035.html",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_20",
+      "candidate_id": "1",
+      "url": "https://www.aquaphorus.com/products/aquaphor/aquaphor-baby-healing-ointment-3oz",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_20",
+      "candidate_id": "2",
+      "url": "https://www.aquaphorus.com/products/aquaphor/aquaphor-baby-healing-ointment-14oz",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_20",
+      "candidate_id": "3",
+      "url": "https://www.aquaphorus.com/products/aquaphor-repairing-ointment/aquaphor-healing-ointment-7oz",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_20",
+      "candidate_id": "4",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=0a17bf6f-6114-4647-a509-65999255c37b&type=display",
+      "reason": "us_reference",
+      "market_basis": "US National Library of Medicine drug labeling"
+    },
+    {
+      "product_key": "unseen_20",
+      "candidate_id": "5",
+      "url": "https://www.target.com/p/-/A-11225229",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_20",
+      "candidate_id": "6",
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/getFile.cfm?setid=0a17bf6f-6114-4647-a509-65999255c37b&type=pdf",
+      "reason": "us_reference",
+      "market_basis": "US National Library of Medicine drug labeling"
+    },
+    {
+      "product_key": "unseen_20",
+      "candidate_id": "7",
+      "url": "https://www.target.com/p/-/A-49158996",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_20",
+      "candidate_id": "8",
+      "url": "https://www.bjs.com/product/aquaphor-advanced-therapy-baby-healing-ointment/3000000000001406252/",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_20",
+      "candidate_id": "9",
+      "url": "https://www.aquaphorus.com/products/kid-baby-care",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_20",
+      "candidate_id": "10",
+      "url": "https://www.bjs.com/product/aquaphor-advanced-therapy-baby-healing-ointment-with-bonus-1575-oz/3000000000001406251",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_21",
+      "candidate_id": "1",
+      "url": "https://www.eucerinus.com/products/advanced-repair/eucerin-smoothing-repair-dry-skin-lotion",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_21",
+      "candidate_id": "2",
+      "url": "https://www.eucerinus.com/products/advanced-repair",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_21",
+      "candidate_id": "3",
+      "url": "https://www.eucerinus.com/products/advanced-repair/eucerin-smoothing-repair-dry-skin-lotion?error=true",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_21",
+      "candidate_id": "4",
+      "url": "https://www.eucerinus.com/products/body-lotion",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_21",
+      "candidate_id": "6",
+      "url": "https://www.eucerinus.com/products/advanced-repair/eucerin-intensive-repair-extra-enriched-hand-creme",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_21",
+      "candidate_id": "7",
+      "url": "https://www.target.com/p/-/A-11005178",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_21",
+      "candidate_id": "8",
+      "url": "https://www.walmart.com/ip/10811050",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_21",
+      "candidate_id": "9",
+      "url": "https://www.walmart.com/ip/10811050?sid=75ff2e2f-8566-4ef1-804d-8175e39d9ddd",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_21",
+      "candidate_id": "10",
+      "url": "https://www.eucerinus.com/products/intensive-repair",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_22",
+      "candidate_id": "1",
+      "url": "https://www.pronamel.us/content/dam/cf-consumer-healthcare/pronamel/en_US/pdf/us-en-pronamel-pronamel-gentle-whitening-toothpaste-alpine-breeze.pdf?iso=en",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_22",
+      "candidate_id": "3",
+      "url": "https://www.sensodyne.com/en-us/products/",
+      "reason": "explicit_us_locale",
+      "market_basis": "Manufacturer URL explicitly identifies the US locale"
+    },
+    {
+      "product_key": "unseen_22",
+      "candidate_id": "5",
+      "url": "https://www.drugs.com/otc/107286/sensodyne-pronamel-gentle-whitening.html",
+      "reason": "us_reference",
+      "market_basis": "US OTC drug-label record"
+    },
+    {
+      "product_key": "unseen_22",
+      "candidate_id": "7",
+      "url": "https://www.pronamel.us/content/dam/cf-consumer-healthcare/pronamel/en_US/pdf/us_en_pronamel_pronamel-intensive-enamel-repair-whitening-toothpaste-arctic-breeze_v62000000211456.pdf?bvstate=pg%3A23%2Fct%3Ar",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_22",
+      "candidate_id": "10",
+      "url": "https://www.sensodyne.com/en-us/products/sensodyne-clinical-white-intensive-clean-toothpaste",
+      "reason": "explicit_us_locale",
+      "market_basis": "Manufacturer URL explicitly identifies the US locale"
+    },
+    {
+      "product_key": "unseen_23",
+      "candidate_id": "2",
+      "url": "https://www.burtsbees.com/product/beeswax-lip-balm/11099-00-1.html",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_23",
+      "candidate_id": "3",
+      "url": "https://www.burtsbees.com/product/ultra-conditioning-lip-balm-with-kokum-butter/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_23",
+      "candidate_id": "4",
+      "url": "https://www.bjs.com/product/burts-bees-lip-balm-variety-pack-8-pk/3000000000000965176",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_23",
+      "candidate_id": "5",
+      "url": "https://www.costco.com/p/-/burts-bees-beeswax-original--ultra-conditioning-lip-balm-8-sticks/4000234105",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_23",
+      "candidate_id": "7",
+      "url": "https://www.costco.com/.product.4000234105.html",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_24",
+      "candidate_id": "1",
+      "url": "https://www.target.com/p/-/A-80839024",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_24",
+      "candidate_id": "2",
+      "url": "https://www.target.com/p/-/A-12388016",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_24",
+      "candidate_id": "3",
+      "url": "https://es.neutrogena.com/products/sun/ultra-sheer-dry-touch-oxybenzone-free-sunscreen-lotion-broad-spectrum-spf-70/6868770",
+      "reason": "explicit_us_audience",
+      "market_basis": "Manufacturer footer explicitly states this website is intended for visitors from the United States; Spanish subdomain is not Spain"
+    },
+    {
+      "product_key": "unseen_24",
+      "candidate_id": "4",
+      "url": "https://es.neutrogena.com/products/sun/ultra-sheer-dry-touch-oxybenzone-free-sunscreen-lotion-broad-spectrum-spf-70/6868770?bvstate=pg%3A58%2Fct%3Ar&cgid=sun-adult-lotions&tileposition=1",
+      "reason": "explicit_us_audience",
+      "market_basis": "Manufacturer footer explicitly states this website is intended for visitors from the United States; Spanish subdomain is not Spain"
+    },
+    {
+      "product_key": "unseen_24",
+      "candidate_id": "5",
+      "url": "https://es.neutrogena.com/products/sun/ultra-sheer-dry-touch-oxybenzone-free-sunscreen-lotion-broad-spectrum-spf-70/6868770?bvstate=pg%3A31%2Fct%3Ar&cgid=sun-adult&tileposition=2",
+      "reason": "explicit_us_audience",
+      "market_basis": "Manufacturer footer explicitly states this website is intended for visitors from the United States; Spanish subdomain is not Spain"
+    },
+    {
+      "product_key": "unseen_24",
+      "candidate_id": "6",
+      "url": "https://www.target.com/p/-/A-93046853",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_24",
+      "candidate_id": "7",
+      "url": "https://www.shoprite.com/sm/pickup/rsid/141/product/neutrogena-ultra-sheer-drytouch-broad-spectrum-sunscreen-spf-55-30-fl-oz-id-00086800687900",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_24",
+      "candidate_id": "8",
+      "url": "https://es.neutrogena.com/products/sun/neutrogena-ultra-sheer-dry-touch-sunscreen-lotion-broad-spectrum-spf-70/681281?bvrrp=Main_Site-en_US%2Freviews%2Fproduct%2F2%2F6868770.htm&bvstate=pg%3A20%2Fct%3Ar&cgid=last-chance-for-gifts&dwopt_6868770_omxSubscriptionID=0&tilePosition=2",
+      "reason": "explicit_us_audience",
+      "market_basis": "Manufacturer footer explicitly states this website is intended for visitors from the United States; Spanish subdomain is not Spain"
+    },
+    {
+      "product_key": "unseen_24",
+      "candidate_id": "9",
+      "url": "https://www.shoprite.com/sm/planning/rsid/470/product/neutrogena-ultra-sheer-drytouch-broad-spectrum-sunscreen-spf-55-30-fl-oz-id-00086800687900",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_24",
+      "candidate_id": "10",
+      "url": "https://www.walmart.com/ip/10309478",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_25",
+      "candidate_id": "2",
+      "url": "https://dawn-dish.com/en-us/products/dawn-platinum-fresh-rain-scent/",
+      "reason": "explicit_us_locale",
+      "market_basis": "Manufacturer URL explicitly identifies the US locale"
+    },
+    {
+      "product_key": "unseen_25",
+      "candidate_id": "3",
+      "url": "https://dawn-dish.com/en-us/products/dawn-platinum-powerwash-dish-spray-applescent/",
+      "reason": "explicit_us_locale",
+      "market_basis": "Manufacturer URL explicitly identifies the US locale"
+    },
+    {
+      "product_key": "unseen_25",
+      "candidate_id": "4",
+      "url": "https://www.target.com/p/-/A-77789611",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_25",
+      "candidate_id": "5",
+      "url": "https://dawn-dish.com/en-us/products/dawn-platinum-powerwash-dish-spray-lemon-scent/",
+      "reason": "explicit_us_locale",
+      "market_basis": "Manufacturer URL explicitly identifies the US locale"
+    },
+    {
+      "product_key": "unseen_25",
+      "candidate_id": "6",
+      "url": "https://www.target.com/p/-/A-95008976",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_25",
+      "candidate_id": "8",
+      "url": "https://dawn-dish.com/en-us/products/dawn-platinum-powerwash-dish-spray-fresh-pine-scent/",
+      "reason": "explicit_us_locale",
+      "market_basis": "Manufacturer URL explicitly identifies the US locale"
+    },
+    {
+      "product_key": "unseen_25",
+      "candidate_id": "9",
+      "url": "https://dawn-dish.com/en-us/products/dawn-platinum-ez-squeeze-fresh-rain-scent/",
+      "reason": "explicit_us_locale",
+      "market_basis": "Manufacturer URL explicitly identifies the US locale"
+    },
+    {
+      "product_key": "unseen_25",
+      "candidate_id": "10",
+      "url": "https://www.target.com/p/-/A-77789613",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_26",
+      "candidate_id": "1",
+      "url": "https://tide.com/en-us/shop/top-collections/tide-free-and-gentle",
+      "reason": "explicit_us_locale",
+      "market_basis": "Manufacturer URL explicitly identifies the US locale"
+    },
+    {
+      "product_key": "unseen_26",
+      "candidate_id": "2",
+      "url": "https://tide.com/en-us/shop/type/laundry-pods/tide-pods-free-and-gentle",
+      "reason": "explicit_us_locale",
+      "market_basis": "Manufacturer URL explicitly identifies the US locale"
+    },
+    {
+      "product_key": "unseen_26",
+      "candidate_id": "5",
+      "url": "https://www.walmart.com/ip/875579746",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_26",
+      "candidate_id": "6",
+      "url": "https://www.target.com/p/-/A-84114537",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_26",
+      "candidate_id": "7",
+      "url": "https://www.homedepot.com/p/320177577?MERCH=REC-_-fbr-_-320177577-_-0-_-n%2Fa-_-n%2Fa-_-n%2Fa-_-n%2Fa-_-n%2Fa",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_26",
+      "candidate_id": "10",
+      "url": "https://www.homedepot.com/p/320177577?MERCH=REC-_-brand_based_collection-_-320177574-_-8-_-n%2Fa-_-n%2Fa-_-n%2Fa-_-n%2Fa-_-n%2Fa",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_27",
+      "candidate_id": "1",
+      "url": "https://www.scotch-brite.com/3M/en_US/p/d/b5005539002/",
+      "reason": "explicit_us_locale",
+      "market_basis": "Manufacturer URL explicitly identifies the US locale"
+    },
+    {
+      "product_key": "unseen_27",
+      "candidate_id": "3",
+      "url": "https://www.shoprite.com/product/scotchbrite-heavy-duty-scrub-sponges-00051131936829",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_27",
+      "candidate_id": "4",
+      "url": "https://www.shoprite.com/sm/pickup/rsid/212/product/scotchbrite-heavy-duty-scrub-sponge-9pack-id-00051131936829",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_27",
+      "candidate_id": "5",
+      "url": "https://www.shoprite.com/sm/pickup/rsid/119/product/scotchbrite-heavy-duty-scrub-sponge-3pack-id-00021200572357",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_27",
+      "candidate_id": "6",
+      "url": "https://www.shoprite.com/product/scotchbrite-heavy-duty-scrub-sponges-3-count-id-00021200572357",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_27",
+      "candidate_id": "7",
+      "url": "https://www.scotch-brite.com/3M/en_US/p/d/b5005539001/?bvstate=pg%3A62%2Fct%3Ar",
+      "reason": "explicit_us_locale",
+      "market_basis": "Manufacturer URL explicitly identifies the US locale"
+    },
+    {
+      "product_key": "unseen_27",
+      "candidate_id": "8",
+      "url": "https://www.shoprite.com/product/scotchbrite-heavy-duty-scrub-sponge-3pack-id-00021200572357",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_27",
+      "candidate_id": "9",
+      "url": "https://www.shoprite.com/sm/pickup/rsid/244/product/scotchbrite-heavy-duty-scrub-sponge-3pack-id-00021200572357",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_27",
+      "candidate_id": "10",
+      "url": "https://www.homedepot.com/p/202077884",
+      "reason": "us_retailer",
+      "market_basis": "US storefront of a retailer; market is inferred from the storefront, not manufacturing country"
+    },
+    {
+      "product_key": "unseen_28",
+      "candidate_id": "1",
+      "url": "https://www.brita.com/support/faq/replacement-filters/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_28",
+      "candidate_id": "2",
+      "url": "https://www.brita.com/support/faq/bottles/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_28",
+      "candidate_id": "3",
+      "url": "https://www.brita.com/support/faq/dispensers/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_28",
+      "candidate_id": "4",
+      "url": "https://www.brita.com/support/faq/pitchers/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_28",
+      "candidate_id": "5",
+      "url": "https://assets.ctfassets.net/oyntpw38l81s/JQeyo5VF7Z7qNBzrQbjQA/9b46b2f51918be6af80fc34e5c2d33bd/brt-us-tidal-elite-users-guide-ob63-ob06-060258509748_522904.001_WEB.pdf",
+      "reason": "explicit_us_document",
+      "market_basis": "Brita US user-guide filename explicitly identifies the US document"
+    },
+    {
+      "product_key": "unseen_28",
+      "candidate_id": "6",
+      "url": "https://www.brita.com/replacement-filters/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_28",
+      "candidate_id": "7",
+      "url": "https://www.brita.com/support/water-pitchers/",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_28",
+      "candidate_id": "9",
+      "url": "https://www.brita.com/products/brita-elite-replacement-filters/?bvstate=pg%3A7%2Fct%3Ar",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_29",
+      "candidate_id": "1",
+      "url": "https://omronhealthcare.com/storage/pdfs/silver-upper-arm-blood-pressure-monitor-bp5250-im-en_3787143-0d.pdf",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_29",
+      "candidate_id": "2",
+      "url": "https://www.mskcc.org/cancer-care/patient-education/blood-pressure-cuffs-to-use-for-home-blood-pressure-monitoring",
+      "reason": "us_reference",
+      "market_basis": "US Memorial Sloan Kettering patient-education reference"
+    },
+    {
+      "product_key": "unseen_29",
+      "candidate_id": "3",
+      "url": "https://www.mskcc.org/cancer-care/patient-education/how-to-set-up-blood-pressure-monitor",
+      "reason": "us_reference",
+      "market_basis": "US Memorial Sloan Kettering patient-education reference"
+    },
+    {
+      "product_key": "unseen_29",
+      "candidate_id": "4",
+      "url": "https://omronhealthcare.com/support",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_29",
+      "candidate_id": "5",
+      "url": "https://omronhealthcare.com/products/silver-upper-arm-blood-pressure-monitor-bp5255?bvstate=pg%3A2%2Fct%3Ar",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_29",
+      "candidate_id": "7",
+      "url": "https://www.consumerreports.org/health/blood-pressure-monitors/omron-silver-bp5250-amazon/m399744/",
+      "reason": "us_reference",
+      "market_basis": "US Consumer Reports product review"
+    },
+    {
+      "product_key": "unseen_29",
+      "candidate_id": "8",
+      "url": "https://omronhealthcare.com/support?spid=23700",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_29",
+      "candidate_id": "9",
+      "url": "https://accessgudid.nlm.nih.gov/devices/00073796265250",
+      "reason": "us_reference",
+      "market_basis": "US National Library of Medicine device registry"
+    },
+    {
+      "product_key": "unseen_30",
+      "candidate_id": "2",
+      "url": "https://www.nikonusa.com/p/prostaff-p3-10x42/16777/overview",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_30",
+      "candidate_id": "4",
+      "url": "https://www.nikonusa.com/p/prostaff-p3-10x42/16777",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_30",
+      "candidate_id": "5",
+      "url": "https://www.nikonusa.com/c/binoculars/prostaff-p3",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    },
+    {
+      "product_key": "unseen_30",
+      "candidate_id": "7",
+      "url": "https://www.nikonusa.com/p/prostaff-p3-8x42/16776",
+      "reason": "us_manufacturer_storefront",
+      "market_basis": "US-facing manufacturer product/storefront domain; not a country-of-origin claim"
+    }
+  ],
+  "excluded": [
+    {
+      "product_key": "unseen_02",
+      "candidate_id": "2",
+      "url": "https://www.drinkpoppi.co.uk/products/strawberry-lemon",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_02",
+      "candidate_id": "3",
+      "url": "https://buypoppi.ca/products/strawberry-lemon",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_02",
+      "candidate_id": "5",
+      "url": "https://www.ocado.com/products/poppi-strawberry-lemon-soda-cans/696952011",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_02",
+      "candidate_id": "9",
+      "url": "https://www.saveonfoods.com/sm/planning/rsid/2249/product/poppi-strawberry-lemon-soda-id-00810063710668",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_02",
+      "candidate_id": "10",
+      "url": "https://www.tesco.com/shop/en-GB/products/323924369?seller=ghs",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_06",
+      "candidate_id": "6",
+      "url": "https://www.walmart.ca/en/ip/califia-almond-milk-unsweetened-vanilla/6000198568701",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_06",
+      "candidate_id": "8",
+      "url": "https://staging.califiafarms.com/products/unsweetened-vanilla-almondmilk-2/?bvstate=pg%3A3%2Fct%3Ar",
+      "reason": "nonproduction_source",
+      "market_basis": "Test, staging, canary, or alternate deployment; not retained as a public production source"
+    },
+    {
+      "product_key": "unseen_07",
+      "candidate_id": "6",
+      "url": "https://test.liquid-iv.com/products/lemon-lime-hydration-multiplier-sugar-free?Flavor=Lemon+Lime&Size=14PK&one-time=42178346582052",
+      "reason": "nonproduction_source",
+      "market_basis": "Test, staging, canary, or alternate deployment; not retained as a public production source"
+    },
+    {
+      "product_key": "unseen_08",
+      "candidate_id": "1",
+      "url": "https://fever-tree.com/en-gb/products/premium-indian-tonic-water",
+      "reason": "non_us_market",
+      "market_basis": "Manufacturer URL identifies a non-US locale"
+    },
+    {
+      "product_key": "unseen_08",
+      "candidate_id": "2",
+      "url": "https://fever-tree.com/index.php/en-au/product/premium-indian-tonic-water",
+      "reason": "non_us_market",
+      "market_basis": "Manufacturer URL identifies a non-US locale"
+    },
+    {
+      "product_key": "unseen_08",
+      "candidate_id": "3",
+      "url": "https://fever-tree.com/en-au/product/premium-indian-tonic-water",
+      "reason": "non_us_market",
+      "market_basis": "Manufacturer URL identifies a non-US locale"
+    },
+    {
+      "product_key": "unseen_08",
+      "candidate_id": "4",
+      "url": "https://fever-tree.com/en-gb/products/light-premium-indian-tonic-water",
+      "reason": "non_us_market",
+      "market_basis": "Manufacturer URL identifies a non-US locale"
+    },
+    {
+      "product_key": "unseen_08",
+      "candidate_id": "6",
+      "url": "https://fever-tree.com/index.php/en-au/product/light-premium-indian-tonic-water",
+      "reason": "non_us_market",
+      "market_basis": "Manufacturer URL identifies a non-US locale"
+    },
+    {
+      "product_key": "unseen_08",
+      "candidate_id": "7",
+      "url": "https://fever-tree.com/index.php/it-it/products/light-premium-indian-tonic-water",
+      "reason": "non_us_market",
+      "market_basis": "Manufacturer URL identifies a non-US locale"
+    },
+    {
+      "product_key": "unseen_08",
+      "candidate_id": "8",
+      "url": "https://fever-tree.com/es-es/products/tonica-premium-light",
+      "reason": "non_us_market",
+      "market_basis": "Manufacturer URL identifies a non-US locale"
+    },
+    {
+      "product_key": "unseen_08",
+      "candidate_id": "9",
+      "url": "https://www.tesco.com/shop/en-GB/products/289287373",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_09",
+      "candidate_id": "5",
+      "url": "https://raoscanada.ca/products/sensitive-marinara-sauce",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_11",
+      "candidate_id": "6",
+      "url": "https://sietefoodshop.com/p/grain-free-sea-salt-tortilla-chips/",
+      "reason": "market_not_established",
+      "market_basis": "Global, mirrored, social, or unverified source without sufficient US-market evidence"
+    },
+    {
+      "product_key": "unseen_12",
+      "candidate_id": "3",
+      "url": "https://www.kindsnacks.co.uk/products/kind-bars/dark-chocolate-nuts-sea-salt",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_12",
+      "candidate_id": "6",
+      "url": "https://www.kindsnacks.ca/en-ca/products/kind-thins/kind-thins-nuts-sea-salt-dark-chocolate-bars-21g-10-count",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_13",
+      "candidate_id": "9",
+      "url": "https://tools.myfooddata.com/nutrition-facts/1483327/wt1",
+      "reason": "market_not_established",
+      "market_basis": "Global, mirrored, social, or unverified source without sufficient US-market evidence"
+    },
+    {
+      "product_key": "unseen_14",
+      "candidate_id": "1",
+      "url": "https://www.rxbar.ca/en_CA/products/protein-bars/rxbar-peanut-butter-chocolate.html",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_15",
+      "candidate_id": "9",
+      "url": "https://www.reddit.com/r/u_KodiakCakesLLC/comments/1uertmi/kodihack_your_breakfast_with_this_proteinmaxxed/",
+      "reason": "market_not_established",
+      "market_basis": "Global, mirrored, social, or unverified source without sufficient US-market evidence"
+    },
+    {
+      "product_key": "unseen_15",
+      "candidate_id": "10",
+      "url": "https://www.reddit.com/r/u_KodiakCakesLLC/comments/1upcib2/kodihack_your_breakfast_with_this_proteinmaxxed/",
+      "reason": "market_not_established",
+      "market_basis": "Global, mirrored, social, or unverified source without sufficient US-market evidence"
+    },
+    {
+      "product_key": "unseen_16",
+      "candidate_id": "9",
+      "url": "https://www.urbanfare.com/product/amys-organic-lentil-soup-light-sodium-00042272905836",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_17",
+      "candidate_id": "3",
+      "url": "https://www.ceravearabia.com/en/skincare/moisturizers/moisturizing-cream",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_17",
+      "candidate_id": "4",
+      "url": "https://www.ceravearabia.com/en/skincare/moisturizers/moisturizing-cream-50ml",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_17",
+      "candidate_id": "6",
+      "url": "https://www.cerave.ca/en-ca/skincare/moisturizers/moisturizing-cream",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_17",
+      "candidate_id": "7",
+      "url": "https://www.ceraveindia.com/ceramides-skin-care/moisturisers/moisturising-cream",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_17",
+      "candidate_id": "10",
+      "url": "https://www.cerave.co.uk/our-products/moisturisers/moisturising-cream?gclsrc=aw.ds",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_18",
+      "candidate_id": "9",
+      "url": "https://7157e75ac0509b6a8f5c-5b19c577d01b9ccfe75d2f9e4b17ab55.ssl.cf1.rackcdn.com/UMDNEQBT-PDF-1-540664-4476138154.pdf",
+      "reason": "market_not_established",
+      "market_basis": "Global, mirrored, social, or unverified source without sufficient US-market evidence"
+    },
+    {
+      "product_key": "unseen_18",
+      "candidate_id": "10",
+      "url": "https://www.nahdionline.com/en-sa/vanicream-face-cleansing-bar-110gm/pdp/103076438",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_21",
+      "candidate_id": "5",
+      "url": "https://uat.eucerinus.com/products/advanced-repair/advanced-repair-creme",
+      "reason": "nonproduction_source",
+      "market_basis": "Test, staging, canary, or alternate deployment; not retained as a public production source"
+    },
+    {
+      "product_key": "unseen_22",
+      "candidate_id": "2",
+      "url": "https://www.sensodyne.com/content/cf-consumer-healthcare/sensodyne-v3/en_GB/home/products/pronamel-gentle-whitening-toothpaste.html",
+      "reason": "non_us_market",
+      "market_basis": "Manufacturer URL identifies a non-US locale"
+    },
+    {
+      "product_key": "unseen_22",
+      "candidate_id": "4",
+      "url": "https://www.sensodyne.com/en-gb/products/pronamel-intensive-enamel-repair.html",
+      "reason": "non_us_market",
+      "market_basis": "Manufacturer URL identifies a non-US locale"
+    },
+    {
+      "product_key": "unseen_22",
+      "candidate_id": "6",
+      "url": "https://www.pronamel.ca/products/gentle-whitening/",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_22",
+      "candidate_id": "8",
+      "url": "https://www.sensodyneca.com/en_CAM/productos/pasta-dental/pronamel-gentle-whitening.html",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_22",
+      "candidate_id": "9",
+      "url": "https://www.pronamel.ca/products/intensive-enamel-repair-whitening/",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_23",
+      "candidate_id": "1",
+      "url": "https://www.burtsbees.co.uk/product/ultra-conditioning-lip-balm/",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_23",
+      "candidate_id": "6",
+      "url": "https://www.burtsbees.co.uk/product/beeswax-lip-balm/",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_23",
+      "candidate_id": "8",
+      "url": "https://www.burtsbees.com.au/product/original-beeswax-moisturising-lip-balm/",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_23",
+      "candidate_id": "9",
+      "url": "https://www.burtsbees.ca/product/ultra-conditioning-beeswax-2pk/",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_23",
+      "candidate_id": "10",
+      "url": "https://www.walmart.ca/en/ip/Burt-s-Bees-100-Natural-Origin-Lip-Balm-Ultra-Conditioning-Beeswax/6000205667459",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_25",
+      "candidate_id": "1",
+      "url": "https://www.dawnplatinum.com/",
+      "reason": "market_not_established",
+      "market_basis": "Global, mirrored, social, or unverified source without sufficient US-market evidence"
+    },
+    {
+      "product_key": "unseen_25",
+      "candidate_id": "7",
+      "url": "https://canary-en.dawn-dish.com/en-us/products/dawn-platinum-fresh-rain-scent/",
+      "reason": "nonproduction_source",
+      "market_basis": "Test, staging, canary, or alternate deployment; not retained as a public production source"
+    },
+    {
+      "product_key": "unseen_26",
+      "candidate_id": "3",
+      "url": "https://swapper-us-en.tide.com/en-us/shop/type/liquid/tide-free-and-gentle-liquid",
+      "reason": "nonproduction_source",
+      "market_basis": "Test, staging, canary, or alternate deployment; not retained as a public production source"
+    },
+    {
+      "product_key": "unseen_26",
+      "candidate_id": "4",
+      "url": "https://swapper-us-en.tide.com/en-us/shop/type/laundry-pods/tide-pods-free-and-gentle",
+      "reason": "nonproduction_source",
+      "market_basis": "Test, staging, canary, or alternate deployment; not retained as a public production source"
+    },
+    {
+      "product_key": "unseen_26",
+      "candidate_id": "8",
+      "url": "https://swapper-us-en.tide.com/en-us/shop/type/laundry-pods/tide-pods-free-and-gentle-odor-refresh",
+      "reason": "nonproduction_source",
+      "market_basis": "Test, staging, canary, or alternate deployment; not retained as a public production source"
+    },
+    {
+      "product_key": "unseen_26",
+      "candidate_id": "9",
+      "url": "https://tide.ca/en-ca/shop/type/laundry-pods/tide-pods-free-and-gentle",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_27",
+      "candidate_id": "2",
+      "url": "https://www.scotch-brite.com/3M/en_CA/p/d/b00027981/",
+      "reason": "non_us_market",
+      "market_basis": "Manufacturer URL identifies a non-US locale"
+    },
+    {
+      "product_key": "unseen_28",
+      "candidate_id": "8",
+      "url": "https://www.tapwaterdata.com/filters/brand/brita/replacement-filters",
+      "reason": "market_not_established",
+      "market_basis": "Global, mirrored, social, or unverified source without sufficient US-market evidence"
+    },
+    {
+      "product_key": "unseen_28",
+      "candidate_id": "10",
+      "url": "https://www.brita.ca/replacement-filters/elite/",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_29",
+      "candidate_id": "6",
+      "url": "https://manuals.plus/m/188ce20b0287d2019c4b713a16c245bfbe61bbaeb10d34150aa5b1ac665c4a94",
+      "reason": "market_not_established",
+      "market_basis": "Global, mirrored, social, or unverified source without sufficient US-market evidence"
+    },
+    {
+      "product_key": "unseen_29",
+      "candidate_id": "10",
+      "url": "https://www.manualslib.com/manual/2463431/Omron-Silver-Bp5250.html",
+      "reason": "market_not_established",
+      "market_basis": "Global, mirrored, social, or unverified source without sufficient US-market evidence"
+    },
+    {
+      "product_key": "unseen_30",
+      "candidate_id": "1",
+      "url": "https://imaging.nikon.com/sport-optics/lineup/binoculars/prostaff/prostaff_p3_x42/index.html",
+      "reason": "market_not_established",
+      "market_basis": "Global, mirrored, social, or unverified source without sufficient US-market evidence"
+    },
+    {
+      "product_key": "unseen_30",
+      "candidate_id": "3",
+      "url": "https://www.nikon.com/company/news/2022/0609_prostaff_p3_02/",
+      "reason": "market_not_established",
+      "market_basis": "Global, mirrored, social, or unverified source without sufficient US-market evidence"
+    },
+    {
+      "product_key": "unseen_30",
+      "candidate_id": "6",
+      "url": "https://en.nikon.ca/p/prostaff-p3-8x42/16776/overview",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_30",
+      "candidate_id": "8",
+      "url": "https://www.nikon.co.uk/en_GB/product/sport-optics/binoculars/prostaff-p3-10x42",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_30",
+      "candidate_id": "9",
+      "url": "https://en.nikon.ca/redirect/en-CA/p/prostaff-p3-8x42/16776/overview",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    },
+    {
+      "product_key": "unseen_30",
+      "candidate_id": "10",
+      "url": "https://en.nikon.ca/c/binoculars/prostaff-p3",
+      "reason": "non_us_market",
+      "market_basis": "Non-US country storefront, retailer, or regional manufacturer site"
+    }
+  ],
+  "added": [
+    {
+      "product_key": "unseen_02",
+      "candidate_id": "11",
+      "title": "poppi Prebiotic Soda 4 pk Cans - Strawberry Lemon",
+      "url": "https://www.heb.com/product-detail/poppi-prebiotic-soda-4-pk-cans-strawberry-lemon/9414018",
+      "excerpt": "12 oz",
+      "query": "poppi strawberry lemon soda United States; US retailer domain filter",
+      "label": "match",
+      "basis": "US H-E-B product listing explicitly identifies the target brand and Strawberry Lemon soda; pack count is ignored."
+    },
+    {
+      "product_key": "unseen_08",
+      "candidate_id": "11",
+      "title": "Fever-Tree Premium Indian Tonic Water, 24 Bottles, 6.8 fl oz",
+      "url": "https://www.walmart.com/ip/639350172",
+      "excerpt": "Fever-Tree Indian Tonic Water",
+      "query": "Fever Tree premium Indian tonic water United States; US retailer domain filter",
+      "label": "match",
+      "basis": "US Walmart listing explicitly identifies Premium Indian Tonic Water; pack count and bottle size are ignored."
+    },
+    {
+      "product_key": "unseen_12",
+      "candidate_id": "11",
+      "title": "KIND Gluten Free Dark Chocolate Nuts & Sea Salt Snack Bars, 12 ct",
+      "url": "https://www.walmart.com/ip/139297127",
+      "excerpt": "regular sized cardboard box",
+      "query": "KIND dark chocolate nuts sea salt bar original United States; US retailer domain filter",
+      "label": "match",
+      "basis": "US Walmart listing identifies the standard 1.4-ounce KIND nut bar, rather than the THINS line."
+    },
+    {
+      "product_key": "unseen_26",
+      "candidate_id": "11",
+      "title": "Tide Free & Gentle HE Liquid Laundry Detergent - 84 fl oz",
+      "url": "https://www.target.com/p/-/A-13918061",
+      "excerpt": "No added dyes and perfumes",
+      "query": "Tide Free Gentle Liquid Laundry Detergent; tide.com, target.com, walmart.com filter",
+      "label": "match",
+      "basis": "US Target listing explicitly identifies Free & Gentle liquid detergent, rather than pods."
+    }
+  ]
+}

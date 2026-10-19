@@ -1,0 +1,658 @@
+{
+  "created_on": "2026-10-19",
+  "status": "assistant_curated_provisional",
+  "not_golden": true,
+  "human_adjudicated": false,
+  "market": "US",
+  "interpretation": "Positive references are provisional. Omitted IDs include unresolved candidates, not only verified negatives. Source-market scope does not verify formulation or page claims.",
+  "assumptions": [
+    "Unqualified named products refer to their standard formulation rather than an explicitly differentiated sugar-free, reduced-sodium, gluten-free, UV, THINS or other competing line.",
+    "Pack-size changes and refills do not alone establish a different product.",
+    "Dedicated product documents, recipes and bundle sections can reference the product without being retail listings.",
+    "Targets are US-market versions. Market does not imply US manufacture or verified formulation equivalence."
+  ],
+  "products": {
+    "unseen_01": {
+      "product_title": "LaCroix Pamplemousse Sparkling Water",
+      "trusted_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "uncertain_ids": [
+        10
+      ],
+      "excluded_variant_ids": [],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_02": {
+      "product_title": "poppi Strawberry Lemon Soda",
+      "trusted_ids": [
+        1,
+        4,
+        6,
+        7,
+        8,
+        11
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": "US H-E-B product listing explicitly identifies the target brand and Strawberry Lemon soda; pack count is ignored."
+    },
+    "unseen_03": {
+      "product_title": "OLIPOP Classic Root Beer 9g Fiber",
+      "trusted_ids": [
+        1,
+        6,
+        7,
+        8,
+        9
+      ],
+      "uncertain_ids": [
+        3,
+        4,
+        5
+      ],
+      "excluded_variant_ids": [
+        2,
+        10
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_04": {
+      "product_title": "Spindrift Raspberry Lime Sparkling Water",
+      "trusted_ids": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10
+      ],
+      "uncertain_ids": [
+        6
+      ],
+      "excluded_variant_ids": [
+        1
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_05": {
+      "product_title": "Chobani Extra Creamy Oatmilk",
+      "trusted_ids": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        2,
+        3
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_06": {
+      "product_title": "Califia Farms Unsweetened Almondmilk",
+      "trusted_ids": [
+        1,
+        2,
+        3,
+        9
+      ],
+      "uncertain_ids": [
+        7
+      ],
+      "excluded_variant_ids": [
+        4,
+        5,
+        10
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_07": {
+      "product_title": "Liquid I.V. Hydration Multiplier Lemon Lime",
+      "trusted_ids": [
+        2
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        1,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_08": {
+      "product_title": "Fever-Tree Premium Indian Tonic Water",
+      "trusted_ids": [
+        11
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        5,
+        10
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": "US Walmart listing explicitly identifies Premium Indian Tonic Water; pack count and bottle size are ignored."
+    },
+    "unseen_09": {
+      "product_title": "Rao's Homemade Marinara Sauce",
+      "trusted_ids": [
+        1,
+        2
+      ],
+      "uncertain_ids": [
+        3
+      ],
+      "excluded_variant_ids": [
+        4,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_10": {
+      "product_title": "Banza Chickpea Rotini",
+      "trusted_ids": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "uncertain_ids": [
+        1
+      ],
+      "excluded_variant_ids": [],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_11": {
+      "product_title": "Siete Sea Salt Tortilla Chips",
+      "trusted_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_12": {
+      "product_title": "KIND Dark Chocolate Nuts & Sea Salt Bar",
+      "trusted_ids": [
+        11
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": "US Walmart listing identifies the standard 1.4-ounce KIND nut bar, rather than the THINS line."
+    },
+    "unseen_13": {
+      "product_title": "Nature's Bakery Blueberry Fig Bar",
+      "trusted_ids": [
+        1,
+        2,
+        3
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_14": {
+      "product_title": "RXBAR Peanut Butter Protein Bar",
+      "trusted_ids": [
+        9
+      ],
+      "uncertain_ids": [
+        2,
+        3
+      ],
+      "excluded_variant_ids": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_15": {
+      "product_title": "Kodiak Buttermilk Power Cakes",
+      "trusted_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_16": {
+      "product_title": "Amy's Organic Lentil Soup",
+      "trusted_ids": [],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_17": {
+      "product_title": "CeraVe Moisturizing Cream",
+      "trusted_ids": [
+        1,
+        5,
+        8,
+        9
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        2
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_18": {
+      "product_title": "Vanicream Gentle Facial Cleanser",
+      "trusted_ids": [
+        5
+      ],
+      "uncertain_ids": [
+        1,
+        4,
+        7,
+        8
+      ],
+      "excluded_variant_ids": [
+        2,
+        3,
+        6
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_19": {
+      "product_title": "La Roche-Posay Toleriane Double Repair Face Moisturizer",
+      "trusted_ids": [
+        1,
+        2,
+        3
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_20": {
+      "product_title": "Aquaphor Healing Ointment",
+      "trusted_ids": [
+        3,
+        4,
+        6
+      ],
+      "uncertain_ids": [
+        1,
+        2,
+        5,
+        7,
+        8,
+        9,
+        10
+      ],
+      "excluded_variant_ids": [],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_21": {
+      "product_title": "Eucerin Advanced Repair Lotion",
+      "trusted_ids": [
+        1,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uncertain_ids": [
+        2,
+        4
+      ],
+      "excluded_variant_ids": [
+        6,
+        10
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_22": {
+      "product_title": "Sensodyne Pronamel Gentle Whitening Toothpaste",
+      "trusted_ids": [
+        1,
+        5
+      ],
+      "uncertain_ids": [
+        3
+      ],
+      "excluded_variant_ids": [
+        7,
+        10
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_23": {
+      "product_title": "Burt's Bees Beeswax Lip Balm",
+      "trusted_ids": [
+        2,
+        4,
+        5,
+        7
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        3
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_24": {
+      "product_title": "Neutrogena Ultra Sheer Dry-Touch Sunscreen SPF 55",
+      "trusted_ids": [
+        2,
+        7,
+        9
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        8,
+        10
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_25": {
+      "product_title": "Dawn Platinum Dishwashing Liquid",
+      "trusted_ids": [
+        2,
+        9
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        3,
+        4,
+        5,
+        6,
+        8,
+        10
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_26": {
+      "product_title": "Tide Free & Gentle Liquid Laundry Detergent",
+      "trusted_ids": [
+        11
+      ],
+      "uncertain_ids": [
+        1
+      ],
+      "excluded_variant_ids": [
+        2,
+        5,
+        6,
+        7,
+        10
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": "US Target listing explicitly identifies Free & Gentle liquid detergent, rather than pods."
+    },
+    "unseen_27": {
+      "product_title": "Scotch-Brite Heavy Duty Scrub Sponge",
+      "trusted_ids": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        7
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_28": {
+      "product_title": "Brita Standard Water Filter",
+      "trusted_ids": [
+        1
+      ],
+      "uncertain_ids": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "excluded_variant_ids": [
+        9
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_29": {
+      "product_title": "Omron Silver Upper Arm Blood Pressure Monitor BP5250",
+      "trusted_ids": [
+        1,
+        2,
+        3,
+        7,
+        9
+      ],
+      "uncertain_ids": [
+        4,
+        8
+      ],
+      "excluded_variant_ids": [
+        5
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    },
+    "unseen_30": {
+      "product_title": "Nikon Prostaff P3 8x42 Binoculars",
+      "trusted_ids": [
+        7
+      ],
+      "uncertain_ids": [
+        5
+      ],
+      "excluded_variant_ids": [
+        2,
+        4
+      ],
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "rationale": "Retained candidates inherit provisional assessments from the original review. Filtering is based on source market, not prediction agreement. Added candidate 11, when present, is assessed from newly collected US source evidence.",
+      "original_review": "../unseen_validation_30/provisional_reference_review.json",
+      "added_candidate_basis": null
+    }
+  }
+}
