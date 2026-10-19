@@ -1,0 +1,697 @@
+{
+  "created_on": "2026-10-19",
+  "status": "assistant_curated_provisional",
+  "not_golden": true,
+  "human_adjudicated": false,
+  "interpretation": "trusted_search_results is a provisional positive minimum. Omitted IDs include unresolved cases and must not all be treated as verified negatives.",
+  "assumptions": [
+    "Unqualified named products refer to their standard formulation rather than an explicitly differentiated sugar-free, reduced-sodium, gluten-free, UV, THINS or other competing line.",
+    "Pack-size changes and refills do not alone establish a different product.",
+    "Dedicated product documents, recipes and bundle sections can reference the product without being retail listings.",
+    "Regional product names do not establish identical formulations; specific regional uncertainty is recorded where ingredient differences were observed."
+  ],
+  "targeted_live_checks": {
+    "unseen_01/10": "Instacart fetch failed; title/URL mismatch remains unresolved.",
+    "unseen_06/9": "Manufacturer PDF explicitly describes Unsweetened Almondmilk, 72-ounce bottle on page 2.",
+    "unseen_14/9": "Manufacturer bundle page has dedicated Peanut Butter description and ingredient/nutrition sections.",
+    "unseen_16": "Attempt to fetch standard manufacturer soup page returned HTTP403; labels use retrieved candidate evidence, all describing reduced-sodium variants.",
+    "unseen_20/3": "Manufacturer page identifies standard Healing Ointment, 7oz.",
+    "unseen_28/1": "Manufacturer FAQ explicitly confirms Standard renamed Original with no other change.",
+    "unseen_29/5": "Manufacturer URL resolves to BP5255; not the requested BP5250."
+  },
+  "products": {
+    "unseen_01": {
+      "product_title": "LaCroix Pamplemousse Sparkling Water",
+      "trusted_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "uncertain_ids": [
+        10
+      ],
+      "excluded_variant_ids": [],
+      "rationale": "Candidates 1–9 explicitly identify Pamplemousse across pack sizes. Candidate 10 title says Pamplemousse but its URL names mango; live fetch failed, so resolve manually.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_02": {
+      "product_title": "poppi Strawberry Lemon Soda",
+      "trusted_ids": [
+        1,
+        4,
+        6,
+        7,
+        8
+      ],
+      "uncertain_ids": [
+        2,
+        3,
+        5,
+        9,
+        10
+      ],
+      "excluded_variant_ids": [],
+      "rationale": "US listings identify Strawberry Lemon, including minis and multipacks. Regional listings have different ingredient declarations or unspecified formulation equivalence; keep them unresolved rather than assume an identical formula.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_03": {
+      "product_title": "OLIPOP Classic Root Beer 9g Fiber",
+      "trusted_ids": [
+        1,
+        6,
+        7,
+        8,
+        9
+      ],
+      "uncertain_ids": [
+        3,
+        4,
+        5
+      ],
+      "excluded_variant_ids": [
+        2,
+        10
+      ],
+      "rationale": "Selected pages identify Classic Root Beer and 9g fiber. Candidates 2 and 10 concern the distinct 6g line. Broad homepage/FAQ/education pages need scope review.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_04": {
+      "product_title": "Spindrift Raspberry Lime Sparkling Water",
+      "trusted_ids": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10
+      ],
+      "uncertain_ids": [
+        6
+      ],
+      "excluded_variant_ids": [
+        1
+      ],
+      "rationale": "Selected results explicitly identify Raspberry Lime, including a nutrition page. Candidate 1 is lime alone; homepage 6 mentions the target but is broad.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_05": {
+      "product_title": "Chobani Extra Creamy Oatmilk",
+      "trusted_ids": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        2,
+        3
+      ],
+      "rationale": "Extra Creamy is explicit in selected titles. Candidates 2 and 3 concern Original; snippets mentioning related Extra Creamy products do not change their main product.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_06": {
+      "product_title": "Califia Farms Unsweetened Almondmilk",
+      "trusted_ids": [
+        1,
+        2,
+        3,
+        9
+      ],
+      "uncertain_ids": [
+        7
+      ],
+      "excluded_variant_ids": [
+        4,
+        5,
+        6,
+        8,
+        10
+      ],
+      "rationale": "Selected product pages identify plain Unsweetened Almondmilk. Candidate 9 manufacturer release explicitly describes its 72-ounce size despite an oatmilk search title. Vanilla is a distinct flavor; regulatory attachment 7 needs scope/formulation review.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_07": {
+      "product_title": "Liquid I.V. Hydration Multiplier Lemon Lime",
+      "trusted_ids": [
+        2
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "rationale": "Interpret the unqualified Hydration Multiplier as the standard Lemon Lime product. Candidate 2 manufacturer page is standard; all other candidates explicitly concern Sugar-Free, including a variety pack.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_08": {
+      "product_title": "Fever-Tree Premium Indian Tonic Water",
+      "trusted_ids": [
+        1,
+        3
+      ],
+      "uncertain_ids": [
+        2
+      ],
+      "excluded_variant_ids": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "rationale": "Premium Indian Tonic is selected. Candidate 2 has a standard-product URL/title but a Light-formula excerpt and requires review. Candidates 4–10 explicitly concern Light variants.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_09": {
+      "product_title": "Rao's Homemade Marinara Sauce",
+      "trusted_ids": [
+        1,
+        2
+      ],
+      "uncertain_ids": [
+        3
+      ],
+      "excluded_variant_ids": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "rationale": "Selected manufacturer pages identify standard Marinara. Sensitive sauce excludes onions/garlic and is a different formulation. Homepage 3 only establishes a broad brand/recipe context.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_10": {
+      "product_title": "Banza Chickpea Rotini",
+      "trusted_ids": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "uncertain_ids": [
+        1
+      ],
+      "excluded_variant_ids": [],
+      "rationale": "Selected pages specifically identify chickpea rotini, including bulk foodservice packaging and localized pages. Generic pasta collection 1 needs scope review.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_11": {
+      "product_title": "Siete Sea Salt Tortilla Chips",
+      "trusted_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [],
+      "rationale": "All ten candidates explicitly identify Siete grain-free Sea Salt tortilla chips; pack sizes vary.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_12": {
+      "product_title": "KIND Dark Chocolate Nuts & Sea Salt Bar",
+      "trusted_ids": [
+        3
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "rationale": "Candidate 3 is the standard KIND nut bar. All other candidates explicitly identify THINS or THINS assortments, including candidate 1 despite its abbreviated title. Regional formula equivalence remains a general limitation.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_13": {
+      "product_title": "Nature's Bakery Blueberry Fig Bar",
+      "trusted_ids": [
+        1,
+        2,
+        3
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "rationale": "Selected manufacturer pages identify the standard whole-wheat Blueberry Fig Bar. Candidates 4–10 identify the separate gluten-free formulation.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_14": {
+      "product_title": "RXBAR Peanut Butter Protein Bar",
+      "trusted_ids": [
+        9
+      ],
+      "uncertain_ids": [
+        2,
+        3
+      ],
+      "excluded_variant_ids": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10
+      ],
+      "rationale": "The manufacturer bundle page provides a dedicated Peanut Butter product section and ingredient list, alongside Chocolate Sea Salt. Chocolate-peanut and oat products are different variants; broad shop pages are unresolved.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_15": {
+      "product_title": "Kodiak Buttermilk Power Cakes",
+      "trusted_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [],
+      "rationale": "Candidates 1–8 identify Buttermilk Power Cakes mix across pack sizes. Recipes 9 and 10 explicitly call for that named mix; they are product references, not sources of the mix ingredient formulation.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_16": {
+      "product_title": "Amy's Organic Lentil Soup",
+      "trusted_ids": [],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "rationale": "All ten retrieved candidates describe Light in Sodium lentil or lentil-vegetable soup, including the two generically titled results. Interpret the requested unqualified Lentil Soup as the standard formulation; no standard candidate is established.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_17": {
+      "product_title": "CeraVe Moisturizing Cream",
+      "trusted_ids": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        2
+      ],
+      "rationale": "Selected pages identify Moisturizing Cream, including refill packaging and localized pages. Candidate 2 is Daily Moisturizing Lotion; cross-sell mentions do not change its main identity.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_18": {
+      "product_title": "Vanicream Gentle Facial Cleanser",
+      "trusted_ids": [
+        5,
+        9
+      ],
+      "uncertain_ids": [
+        1,
+        4,
+        7,
+        8
+      ],
+      "excluded_variant_ids": [
+        2,
+        3,
+        6,
+        10
+      ],
+      "rationale": "Candidate 5 is the liquid Gentle Facial Cleanser. Manufacturer product brochure 9 explicitly includes it. Cleansing-bar pages concern a different form; search/listing pages need scope review.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_19": {
+      "product_title": "La Roche-Posay Toleriane Double Repair Face Moisturizer",
+      "trusted_ids": [
+        1,
+        2,
+        3
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "rationale": "Selected manufacturer pages identify the non-UV Double Repair Face Moisturizer. Candidates 4–10 explicitly identify the UV/SPF30 variant.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_20": {
+      "product_title": "Aquaphor Healing Ointment",
+      "trusted_ids": [
+        3,
+        4,
+        6
+      ],
+      "uncertain_ids": [
+        1,
+        2,
+        5,
+        7,
+        8,
+        9,
+        10
+      ],
+      "excluded_variant_ids": [],
+      "rationale": "Candidate 3 is standard Healing Ointment. Drug label 4 and its PDF 6 identify Healing Ointment Advanced Therapy. Baby-branded products may share formulation but equivalence has not been established here; keep them unresolved.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_21": {
+      "product_title": "Eucerin Advanced Repair Lotion",
+      "trusted_ids": [
+        1,
+        3,
+        7,
+        8,
+        9
+      ],
+      "uncertain_ids": [
+        2,
+        4
+      ],
+      "excluded_variant_ids": [
+        5,
+        6,
+        10
+      ],
+      "rationale": "Selected pages identify Advanced Repair body lotion. Cream, hand cream and Intensive Repair are distinct. Broad Advanced Repair/body-lotion collections need scope review.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_22": {
+      "product_title": "Sensodyne Pronamel Gentle Whitening Toothpaste",
+      "trusted_ids": [
+        1,
+        2,
+        5,
+        6,
+        8
+      ],
+      "uncertain_ids": [
+        3
+      ],
+      "excluded_variant_ids": [
+        4,
+        7,
+        9,
+        10
+      ],
+      "rationale": "Selected product pages and labels identify Pronamel Gentle Whitening. Intensive Enamel Repair and Clinical White are separate lines. Broad products page 3 needs scope review.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_23": {
+      "product_title": "Burt's Bees Beeswax Lip Balm",
+      "trusted_ids": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        1,
+        3
+      ],
+      "rationale": "Selected results identify Original Beeswax lip balm or explicitly include it in an assortment. Candidates 1 and 3 concern Ultra Conditioning alone.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_24": {
+      "product_title": "Neutrogena Ultra Sheer Dry-Touch Sunscreen SPF 55",
+      "trusted_ids": [
+        2,
+        7,
+        9
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        8,
+        10
+      ],
+      "rationale": "Selected candidates explicitly specify SPF55. All remaining candidates specify SPF70, including generic search titles whose URLs/excerpts reveal SPF70.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_25": {
+      "product_title": "Dawn Platinum Dishwashing Liquid",
+      "trusted_ids": [
+        2,
+        7,
+        9
+      ],
+      "uncertain_ids": [
+        1
+      ],
+      "excluded_variant_ids": [
+        3,
+        4,
+        5,
+        6,
+        8,
+        10
+      ],
+      "rationale": "Selected results identify Platinum dishwashing liquid, including EZ-Squeeze packaging. Powerwash spray/refill products are a distinct line. Generic store 1 needs scope/authenticity review.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_26": {
+      "product_title": "Tide Free & Gentle Liquid Laundry Detergent",
+      "trusted_ids": [
+        3
+      ],
+      "uncertain_ids": [
+        1
+      ],
+      "excluded_variant_ids": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "rationale": "Selected result specifically identifies Free & Gentle liquid detergent. Pods are a different form even when their title says liquid. Broad collection 1 includes liquid but needs scope review.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_27": {
+      "product_title": "Scotch-Brite Heavy Duty Scrub Sponge",
+      "trusted_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "uncertain_ids": [],
+      "excluded_variant_ids": [
+        7
+      ],
+      "rationale": "Selected results explicitly identify Heavy Duty scrub sponges across pack sizes. Candidate 7 is Zero Scratch, a different sponge type.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_28": {
+      "product_title": "Brita Standard Water Filter",
+      "trusted_ids": [
+        1,
+        8
+      ],
+      "uncertain_ids": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "excluded_variant_ids": [
+        9,
+        10
+      ],
+      "rationale": "FAQ 1 explicitly documents Standard-to-Original renaming with no other change and supplies compatibility/use instructions. Comparison article 8 identifies Standard OB03. Other multi-filter support/category pages need scope review; candidates 9 and 10 are Elite.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_29": {
+      "product_title": "Omron Silver Upper Arm Blood Pressure Monitor BP5250",
+      "trusted_ids": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        9,
+        10
+      ],
+      "uncertain_ids": [
+        4,
+        8
+      ],
+      "excluded_variant_ids": [
+        5
+      ],
+      "rationale": "Selected manual, setup guide, review and device registry explicitly identify BP5250. Candidate 5 manufacturer page is BP5255, despite a generic Silver title. Broad support pages 4 and 8 need scope review.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    },
+    "unseen_30": {
+      "product_title": "Nikon Prostaff P3 8x42 Binoculars",
+      "trusted_ids": [
+        1,
+        3,
+        6,
+        7,
+        9
+      ],
+      "uncertain_ids": [
+        5,
+        10
+      ],
+      "excluded_variant_ids": [
+        2,
+        4,
+        8
+      ],
+      "rationale": "Selected product and family announcement/specification pages explicitly cover P3 8x42. Candidates 2,4,8 are 10x42 product pages despite cross-links to 8x42. Broad P3 collections need scope review.",
+      "label_author": "assistant",
+      "human_adjudicated": false,
+      "basis": "Manual assistant review of saved web-search titles, URLs and excerpts; targeted live URL checks for ambiguous cases. Not an output from the project matcher."
+    }
+  },
+  "input_sha256": "285c686bb0eadf29871d92f65057b3e9188e0f8f8e7345d3cb99045321d960cc",
+  "output_sha256": "1352a14ed04dd9e895b24efbe07a1089c09cda51b1c51f6c284aba9468d18263"
+}

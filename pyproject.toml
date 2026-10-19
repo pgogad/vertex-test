@@ -1,0 +1,37 @@
+[build-system]
+requires = ["hatchling>=1.27,<2"]
+build-backend = "hatchling.build"
+
+[project]
+name = "vertex-search-matcher"
+version = "0.1.0"
+description = "Select product-matching search results and evaluate against reference labels."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "aiohttp==3.14.5",
+    "pypdf==6.21.1",
+    "openai>=2,<3",
+    "pydantic>=2.10,<3",
+    "python-dotenv>=1,<2",
+]
+
+[project.scripts]
+vertex-match = "vertex_matcher.cli:main"
+
+[dependency-groups]
+dev = ["pytest>=8,<10", "ruff>=0.9,<1"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/vertex_matcher"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+extend-exclude = ["out"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]

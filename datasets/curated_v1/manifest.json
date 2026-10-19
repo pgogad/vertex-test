@@ -1,0 +1,361 @@
+{
+  "dataset_version": "curated-v1",
+  "created_date": "2026-10-19",
+  "status": "provisional_review_filtered_development_dataset",
+  "source": "search_results_ground_truth_train.json",
+  "source_sha256": "48a9803b646bf1034706a0005358c3d5c65dfbc1684a9a4400cbcb37e2848120",
+  "label_policy": "Original labels and candidate text/IDs preserved without correction; unresolved products excluded as whole records.",
+  "label_changes": [],
+  "quarantine_rules_basis": "Supplied-text label audit, not prediction correctness; no model outputs are read to generate these files.",
+  "split": {
+    "unit": "whole_product",
+    "target_validation_fraction": 0.2,
+    "seed": "42",
+    "stratification": "whether trusted_search_results is empty",
+    "algorithm": "Within each stratum sort original product keys by (SHA256(UTF8(seed + newline + key)), key); select the first round(n * 0.2), bounded to [1, n-1], for validation; preserve original input order within output files.",
+    "train_product_keys": [
+      "Lipton CB Unswet Blk Tea 14oz ",
+      "LIFESAVERS MINTS WINTOGREEN SUP ",
+      " Milk, Chocolate",
+      "FC ",
+      "Labatt Ale 12 ea ",
+      "S SEL TEA GREEN DECAF ",
+      "FM PEANUT BTR BUCKEYES ",
+      "alani nu fit snacks peanut butter crisp protein bar 12 - 1.62 oz bars protein bar, peanut butter crisp, 12 pack",
+      "STIRRINGS MOJITO ",
+      "Essence of Beauty Hand Lotion 2.5 oz Hand Lotion, Moisturizing, Sunblossom",
+      "act ii butter popcorn 6 ea popcorn, butter",
+      "Emu Lemongrass Hand Sanitizer Mist 2.2 oz Hand Sanitizer Mist, Lemongrass",
+      "Minestrone Soup, 24 oz ",
+      "Large Org Apricot ",
+      "Vegetable Lo Mein, 12 oz ",
+      "TRES AGAVE STRAWBERRY MIXER ",
+      "protein water water 4 ea water, protein, punch",
+      "Signature SELECT Cashew Chicken Salad - 0.50 Lb ",
+      "Kelly & Katie Betty Clutch ",
+      "Ultra Lift Deep Wrinkle Day Cream 1.6 oz Deep Wrinkle Day Cream, Intensive",
+      "E Oxygen Cylinder Kit on Cart, 1630A-15E Mada Medical 1602E Aluminum Oxygen Cylinder, 1335-15 Adjustable flow regulator (2-15 LPM), nasal cannula, and 370C Cart (Empty) is a complete oxygen therapy system that is ideal for home use.",
+      "Rhythm P2-S3 Portable Concentrator ",
+      "Standard Issue Waterproof 10 x 25 Binoculars ",
+      "For Tots Apple White Grape Juice Beverage, Apple White Grape"
+    ],
+    "validation_product_keys": [
+      "Dunkin Donuts Mocha 13.7zBtl ",
+      "BRK STRAWBERRY DRINKING WATER   15/10 OZ ",
+      "capri sun paw patrol mango pineapple juice blend 10 ea ",
+      "ALOHA PRTN PWDR VANILLA         1 EA ",
+      "FRSH BKD FOCACCIA BRD BREAD FRESH BAKED",
+      "Numi Tea 12 oz Tea, Organic, Pure Black"
+    ],
+    "leakage_checks": {
+      "normalized_product_identity_overlap": 0,
+      "exact_candidate_text_overlap": 0,
+      "normalized_candidate_url_overlap": 0
+    },
+    "url_normalization": "Lowercase scheme/host; drop fragments, srsltid and utm_* parameters; retain and sort all other query parameters. No fuzzy matching or live redirects."
+  },
+  "summary": {
+    "source": {
+      "products": 50,
+      "candidates": 455,
+      "labeled_products": 50,
+      "approved_candidates": 240,
+      "empty_reference_products": 12,
+      "empty_titles": 1,
+      "empty_descriptions": 23,
+      "identical_text_label_conflicts": [
+        {
+          "product_key": "V8 V-Fusion 100% Juice 6 ea 100% Juice, Pomegranate Blueberry",
+          "candidate_ids": [
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    "cleaned": {
+      "products": 30,
+      "candidates": 257,
+      "labeled_products": 30,
+      "approved_candidates": 112,
+      "empty_reference_products": 12,
+      "empty_titles": 1,
+      "empty_descriptions": 19,
+      "identical_text_label_conflicts": []
+    },
+    "train": {
+      "products": 24,
+      "candidates": 207,
+      "labeled_products": 24,
+      "approved_candidates": 82,
+      "empty_reference_products": 10,
+      "empty_titles": 1,
+      "empty_descriptions": 15,
+      "identical_text_label_conflicts": []
+    },
+    "validation": {
+      "products": 6,
+      "candidates": 50,
+      "labeled_products": 6,
+      "approved_candidates": 30,
+      "empty_reference_products": 2,
+      "empty_titles": 0,
+      "empty_descriptions": 4,
+      "identical_text_label_conflicts": []
+    },
+    "quarantine": {
+      "products": 20,
+      "candidates": 198,
+      "labeled_products": 20,
+      "approved_candidates": 128,
+      "empty_reference_products": 0,
+      "empty_titles": 0,
+      "empty_descriptions": 4,
+      "identical_text_label_conflicts": [
+        {
+          "product_key": "V8 V-Fusion 100% Juice 6 ea 100% Juice, Pomegranate Blueberry",
+          "candidate_ids": [
+            1,
+            10
+          ]
+        }
+      ]
+    }
+  },
+  "quarantine": {
+    "Theraworx Protect For Daily Urinary Health Wipes 60 ea Wipes, Protect, For Daily Urinary Health": {
+      "candidate_ids": [
+        3,
+        6
+      ],
+      "category": "same_url_opposite_labels",
+      "reason": "Same title and URL have opposite labels; snippets differ in explicit identity evidence.",
+      "label_changes": []
+    },
+    "Arnold Palmer Half & Half Iced Tea Lemonade 6 ea Iced Tea Lemonade, Half & Half": {
+      "candidate_ids": [
+        6,
+        7,
+        9
+      ],
+      "category": "unresolved_formulation",
+      "reason": "Positive labels span Spiked and instant-tea evidence; uploaded input does not resolve alcohol status or form.",
+      "label_changes": []
+    },
+    "Ghirardeli Squares White Chocolate Caramel 5 oz White Chocolate, Squares, Caramel": {
+      "candidate_ids": [
+        4
+      ],
+      "category": "plausible_omitted_match",
+      "reason": "Rejected listing matches brand, white chocolate, caramel, and size; confirm Squares form and label completeness.",
+      "label_changes": []
+    },
+    "Muscle Milk Banana Creme 14oz ": {
+      "candidate_ids": [
+        6
+      ],
+      "category": "unresolved_product_line",
+      "reason": "Rejected Genuine Banana Creme shake appears to match; confirm product-line or formulation distinction.",
+      "label_changes": []
+    },
+    "Equate Bandages 10 ea Bandages, Flexible Fabric, Antibacterial, Jumbo": {
+      "candidate_ids": [
+        5,
+        7,
+        8,
+        10
+      ],
+      "category": "identity_and_evidence_scope",
+      "reason": "Accepted generic search page and listings missing brand or Jumbo evidence; snippets also differ in active-ingredient concentration.",
+      "label_changes": []
+    },
+    "starbucks doubleshot mexican mocha energy coffee beverage 15 oz energy coffee beverage, mexican mocha": {
+      "candidate_ids": [
+        5,
+        7
+      ],
+      "category": "same_url_opposite_labels",
+      "reason": "Same title and exact Instacart URL have opposite labels; rejected result has ingredient evidence.",
+      "label_changes": []
+    },
+    "Monster Ultra PeachyKeen 12zCn ": {
+      "candidate_ids": [
+        2,
+        3,
+        4,
+        6,
+        8,
+        9
+      ],
+      "category": "mixed_identity_evidence",
+      "reason": "Several rejected exact-name results need adjudication; candidate 6 additionally has Rio Punch snippet conflict.",
+      "label_changes": []
+    },
+    "Q KOLA ": {
+      "candidate_ids": [
+        7,
+        8
+      ],
+      "category": "page_scope_and_alias",
+      "reason": "Broad brand homepage is positive while Spectacular Kola product listing is negative; page eligibility and alias equivalence are unresolved.",
+      "label_changes": []
+    },
+    "SPARKLING ICE PEACH NECTARINE ": {
+      "candidate_ids": [
+        3,
+        4,
+        6,
+        8
+      ],
+      "category": "duplicate_and_formulation",
+      "reason": "Amazon 3/6 share a URL and ingredient snippet but differ in label; 4/8 have potentially different formulation evidence.",
+      "label_changes": []
+    },
+    "Asepxia Body Wash 8.45 oz Body Wash, Medicated Acne, Scrub": {
+      "candidate_ids": [
+        1,
+        8
+      ],
+      "category": "same_url_opposite_labels",
+      "reason": "Same Walmart URL/title have opposite labels; clarify whether differing ingredient claims drive the negative label.",
+      "label_changes": []
+    },
+    "Derma E Eczema Relief Lotion 6 oz Relief Lotion, Eczema": {
+      "candidate_ids": [
+        4,
+        9
+      ],
+      "category": "tracking_url_opposite_labels",
+      "reason": "Same cream page after removing srsltid has opposite labels; lotion versus cream equivalence is unresolved.",
+      "label_changes": []
+    },
+    "V8 V-Fusion 100% Juice 6 ea 100% Juice, Pomegranate Blueberry": {
+      "candidate_ids": [
+        1,
+        2,
+        4,
+        6,
+        10
+      ],
+      "category": "exact_text_label_conflict",
+      "reason": "Candidates 1/10 are byte-identical with opposite labels; also unresolved V-Fusion/Blends equivalence and modifier handling.",
+      "label_changes": []
+    },
+    "Birds Eye Oven Roasters, Zesty Ranch Broccoli, Frozen Vegetables, 14 oz. Bag Broccoli, Zesty Ranch": {
+      "candidate_ids": [
+        5
+      ],
+      "category": "plausible_omitted_match",
+      "reason": "Product-specific nutrition result names Oven Roasters Zesty Ranch Broccoli but is negative; confirm identity and document eligibility.",
+      "label_changes": []
+    },
+    "Ghirardelli Peppermint Bark Dark Chocolate Squares 7.7 oz Dark Chocolate Squares, Peppermint Bark": {
+      "candidate_ids": [
+        2
+      ],
+      "category": "unresolved_assortment",
+      "reason": "Positive title uses Peppermint Bark & Dark Chocolate, leaving assortment versus exact variant unresolved.",
+      "label_changes": []
+    },
+    "Porcelana Skin Lightening Cream 3 oz Skin Lightening Cream, Fade Dark Spots Daytime Treatment": {
+      "candidate_ids": [
+        1
+      ],
+      "category": "unresolved_formulation",
+      "reason": "Rejected daytime result has Updated-Formula in its URL; label cannot be settled from name agreement alone.",
+      "label_changes": []
+    },
+    "ChapStick Classic Collection Lip Care 3 ea Lip Care, Classic Collection": {
+      "candidate_ids": [
+        1,
+        4,
+        5,
+        7,
+        9,
+        10
+      ],
+      "category": "inconsistent_assortment_labels",
+      "reason": "Classic Collection assortment is inconsistently accepted; Classic Original and mixed bundle labels also conflict with the apparent target.",
+      "label_changes": []
+    },
+    "health warrior pumpkin seed bar dark chocolate 1.23 oz pumpkin seed bar, dark chocolate flavor": {
+      "candidate_ids": [
+        7,
+        10
+      ],
+      "category": "inconsistent_variant_labels",
+      "reason": "Dark Chocolate Peanut is negative at 7 but positive at 10 for the dark chocolate input.",
+      "label_changes": []
+    },
+    "Carbon Theory Tea Tree Oil & Citric Acid Breakout Control Facial Purifying Tonic 8.45 fl oz Facial Purifying Tonic, Breakout Control, Tea Tree Oil & Citric Acid": {
+      "candidate_ids": [
+        1,
+        6
+      ],
+      "category": "tracking_url_opposite_labels",
+      "reason": "Same manufacturer URL after removing srsltid has differing labels and citric-acid versus grapefruit snippet evidence.",
+      "label_changes": []
+    },
+    "Cocoa Krispies Cereal Bar 5 ea Cereal Bar, Chewy, Chocolate": {
+      "candidate_ids": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "category": "product_name_and_document_scope",
+      "reason": "Rejected granola-bar documents overlap accepted cereal-bar ingredients; product equivalence and document eligibility require review.",
+      "label_changes": []
+    },
+    "oaza cacao mocha cold brew coffee + electrolytes coffee, cold brew, electrolytes, cacao mocha": {
+      "candidate_ids": [
+        4,
+        5,
+        6,
+        9
+      ],
+      "category": "identity_and_formulation_scope",
+      "reason": "Accepted listings omit brand while rejected 6 names Oaza with 0 Sugar and unrelated snippet text; equivalence is unresolved.",
+      "label_changes": []
+    }
+  },
+  "retained_policy_sensitive_examples": {
+    "BRK STRAWBERRY DRINKING WATER   15/10 OZ ": "Keep the human labels as an abbreviation-resolution example; model abstention alone is not a label defect.",
+    "For Tots Apple White Grape Juice Beverage, Apple White Grape": "Keep distinctive-product-line identification without an explicit manufacturer; do not remove solely because the model abstained.",
+    "ALOHA PRTN PWDR VANILLA         1 EA ": "Keep the product-targeted collection label; the current model page-type gate is not ground truth.",
+    "STIRRINGS MOJITO ": "Keep the Mojito-targeted collection label and negative recipes; do not equate this collection with a generic homepage.",
+    "Kelly & Katie Betty Clutch ": "Keep collection candidate 3, whose snippet explicitly identifies Betty Clutch; do not filter by model agreement.",
+    "Ultra Lift Deep Wrinkle Day Cream 1.6 oz Deep Wrinkle Day Cream, Intensive": "Keep the product-specific chemical-record label; a model purpose-classification failure alone does not establish bad annotation.",
+    "Emu Lemongrass Hand Sanitizer Mist 2.2 oz Hand Sanitizer Mist, Lemongrass": "Preserve the product-document label; missing brand in a snippet alone does not justify rewriting a human label."
+  },
+  "limitations": [
+    "Not independently adjudicated by Vertex; remaining labels are provisional rather than guaranteed correct.",
+    "The original 50 products were already inspected and used to refine the matching policy; validation is not a previously unseen holdout.",
+    "Exclusions were informed by prior error review, so this subset has selection bias; do not compare its scores directly with the original benchmark.",
+    "Validation has only six products; retain an external unseen test set for final generalization claims.",
+    "No fine-tuning chat-message JSONL is produced; these files use the original product-matching input/label schema."
+  ],
+  "files": {
+    "cleaned.json": {
+      "sha256": "37e4dff5d92d2372036dd03c4395b8c8d6d041273581c04201e383b863b2a3b1",
+      "products": 30
+    },
+    "train.json": {
+      "sha256": "e238e850b20be095ddc776dbe2f20a651084858fc24847c147509dd90a06323f",
+      "products": 24
+    },
+    "validation.json": {
+      "sha256": "3b35defc1eee93c6c8f4f67772cbbe01d3b48359d3b9aad1f33d5122ad583851",
+      "products": 6
+    },
+    "validation_inputs.json": {
+      "sha256": "21cb0a2e1ef4ce023d1511aa3054dd031dfde8d3a9688215b65e0e42db2242dc",
+      "products": 6
+    },
+    "quarantine.json": {
+      "sha256": "f9a55cc942abe141dd987b37f0c349735ca3979038a24c3b648c1f8d1d43e583",
+      "products": 20
+    }
+  }
+}
