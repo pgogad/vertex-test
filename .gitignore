@@ -10,3 +10,4 @@ runs/
 dist/
 out/
 *.egg-info/
+/.idea/
